@@ -15,9 +15,7 @@
   #   }
   # }
 
-
-
-
+=begin
 def remove_strawberry(contacts)
    contacts["Freddy Mercury"].each do |name, value|
       if name == :favorite_ice_cream_flavors
@@ -26,3 +24,6 @@ def remove_strawberry(contacts)
     end
     return contacts
  end
+ =end
+
+ lkmm
